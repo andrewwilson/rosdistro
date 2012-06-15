@@ -850,6 +850,7 @@ qt4-qmake:
   arch: qt
   ubuntu: qt4-qmake
   fedora: qt-devel
+  debian: qt4-qmake 
 readline-dev:
   arch: readline
   ubuntu: libreadline-dev
@@ -1050,7 +1051,7 @@ yaml:
   arch: libyaml
   fedora: libyaml-devel
   ubuntu: libyaml-dev
-  debian: libyaml-devq
+  debian: libyaml-dev
 yaml-cpp:
   arch: yaml-cpp
   debian:
