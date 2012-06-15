@@ -1050,6 +1050,7 @@ yaml:
   arch: libyaml
   fedora: libyaml-devel
   ubuntu: libyaml-dev
+  debian: libyaml-devq
 yaml-cpp:
   arch: yaml-cpp
   debian:
